@@ -28,7 +28,6 @@ For data Structure of her2st dataset, please refer to: https://github.com/almaan
 Required package:
 - Python >= 3.9
 - PyTorch >= 2.0
-- pytorch-lightning >= 1.4
 - scanpy >= 1.8
 
 To install dependencies, users can use the below command:
