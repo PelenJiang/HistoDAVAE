@@ -37,13 +37,12 @@ pip install -r requirements.txt
 ```
 
 ## HistoDAVAE pipeline
-Step 1：Convert spatial transcriptomics data to .h5ad format
-Step 2：Generate gene lists for predition.
-Step 3：Generate initial mask for raw HE image.
-Step 4：Generate cropped HE and mask images along with the cropped coordinates (To remove most of the background area).
-Step 5：Adjust HE and mask images for training. 
-Step 6：Train and test HistoDAVAE model.
-
+Step 1：Convert spatial transcriptomics data to .h5ad format.  
+Step 2：Generate gene lists for predition.  
+Step 3：Generate initial mask for raw HE image.  
+Step 4：Generate cropped HE and mask images along with the cropped coordinates (To remove most of the background area).  
+Step 5：Adjust HE and mask images for training.  
+Step 6：Train and test HistoDAVAE model.  
 
 
 # Usage
